@@ -1,0 +1,74 @@
+html, body{
+	margin: 0;
+	font-family: algerian;
+	background: #5b7c99;
+}
+header{
+	background-color:black;
+	padding: 40px;
+	text-align: center;
+}
+h1{
+	font-size: 90px;
+	color: solid black;
+}
+h2{
+	text-align: center;
+	font-family: public serif;
+	font-size: 70px;
+	color: solid black;
+}
+header .pic img{
+	border-radius: 175px;
+	width: 300px;
+	border: 24px solid #fde74c;
+}
+header .name img{
+	width: 300px;
+	padding-right: 13px;
+}
+.content{
+	max-width: 900px;
+	margin: 0 auto;
+	padding: 0 20px;
+}
+.content p{
+	font-size: 25px;
+	color: solid black;
+	border-style: solid;
+	border-radius: 2px;
+	border-color: solid black;
+	padding: 16px 30px;
+	background-color: #e5e9ec;
+}
+.content ul{
+	text-align: center;
+
+}
+.content ul li{
+	font-size: 20px;
+	color: solid black;;
+}
+img.big-image{
+	max-width: 100%;
+}
+ul{
+	list-style: none;
+	padding: 0;
+	margin: 0;
+}
+a{
+	color: white;
+	text-decoration: none;
+}
+footer{
+	margin-top: 20px;
+	padding: 40px 20px;
+	background-color: #fde74c;
+}
+footer ul{
+	text-align: center;
+}
+footer ul li{
+	display: inline-block;
+	margin: 0 5px;
